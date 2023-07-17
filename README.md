@@ -1,7 +1,7 @@
 Hi there 👋, I'm Bieda Kedeye
 A Mobile Full-Stack Developer
 
-  Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 -🔭 I’m currently working on Mobile apps using Flutter
 -🌱 I’m currently learning about Mobile apps penetration testing
