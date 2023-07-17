@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Kedeye
-- 👀 I’m interested in ...development 
-- 🌱 I’m currently learning ...development and cybersecurity 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋, I'm Bieda Kedeye
+A Mobile Full-Stack Developer
 
-<!---
-Kedeye/Kedeye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Here are some ideas to get you started:
+
+-🔭 I’m currently working on Mobile apps using Flutter
+-🌱 I’m currently learning about Mobile apps penetration testing
+-💬 Ask me about Flutter, Firebase, js
+-👨‍💻 My key projects are available at my website https://kedeye.vercel.app/
+-📫 How to reach me Bkkedeye.dev@gmail.com
